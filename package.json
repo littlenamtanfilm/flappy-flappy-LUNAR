@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Lunar",
+  "description": "A pixel art Flappy Bird style game featuring Lunar Duck and golden forks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
